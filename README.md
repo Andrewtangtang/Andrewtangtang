@@ -11,7 +11,6 @@
   - ⚙️ **DevOps**  
   - 🧠 **Linux Kernel**  
   - 🔌 **Backend Systems**
-- 🌱 In my free time, I love **learning new technologies** and exploring how things work under the hood  
 ---
 
 ## 🏆 Awards
