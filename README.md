@@ -19,16 +19,14 @@
 - [2024 Taipei Codefest Hackathon](https://codefest-2024fall.taipei/) – Real-time Taipei parking information service using open data: 🥉 **Third Place** ([Project Repo](https://github.com/vaclisinc/vaclis-TownPass-Services))
 - [2024 SITCON Hackathon](https://hackathon.sitcon.org/2024/) – Journaling app with AI-powered insights aimed to improve mental health: 🥇 **First Prize** ([Project Repo](https://github.com/Andrewtangtang/CCdiary-backend))
 
+
+## Open Source Contributions
+ - [moonlink](https://github.com/Mooncake-Labs/moonlink)
+
 ## 💼 Experience
 
-**Streaming Data Engineer – QuantDevOps**  
-*Dec 2024 – Present*  
-- Built a **real-time distributed pipeline** using `Apache Kafka`, `Flink`, and `ZeroMQ` for low-latency, high-throughput streaming.
-- Optimized **parallel processing** and **scheduling** to improve high-frequency trading performance.
-- Exploring `NoSQL` databases and **distributed AI training**, with a focus on resource management and cloud-based workloads.
-
 **Backend Developer – NCKU Office of International Affairs**  
-*Sep 2023 – Present*  
+*Sep 2023 – June 2025*  
 - Developed a **chatbot** to assist international students, enhancing problem resolution efficiency.
 - Led the team and improved the **software development process**.
 - Built a back-end service with `FastAPI`, `MySQL`, and `MongoDB`, supporting **retrieval-augmented generation**.
