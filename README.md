@@ -13,12 +13,11 @@
   - Supports ingestion from Postgres CDC, Kafka event streams, and OTEL telemetry data.
   - Uses buffering, caching, and indexing to keep Iceberg tables read-optimized without heavy maintenance or compaction.
 
-- [DuckDB Extensions](https://github.com/duckdb/community-extensions)
-  - [duckdb-table-inspector](https://github.com/dentiny/duckdb-table-inspector)  
-    DuckDB extension providing observability into DuckDB storage internals.
-    - Inspect storage usage at database, table, and column levels.
-    - Diagnose issues such as unexpected database file growth and inefficient compression.
-  - Coming soon...
+- [DuckDB Community Extensions](https://github.com/duckdb/community-extensions)
+    - [duckdb-table-inspector](https://github.com/dentiny/duckdb-table-inspector)
+      - Storage observability for DuckDB: inspect database, table, and column-level usage, compression, indexes, metadata, and free blocks.
+    - [duckdb-query-condition-cache](https://github.com/dentiny/duckdb-query-condition-cache)
+      - Predicate-aware vector pruning for recurring filters, skipping non-qualifying vectors before decompression and predicate evaluation.
 
 ## Connect
 
